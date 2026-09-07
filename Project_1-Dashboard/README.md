@@ -1,8 +1,6 @@
 # Excel Salary Dashboard
 
-<img width="800" height="333" alt="1_Salary_Dashboard_Final_Dashboard" src="https://github.com/user-attachments/assets/7464af5a-c710-405f-ab22-5d651b6c64b4" />
-
-## Introduction
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
@@ -34,7 +32,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Chart1.png)
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -43,7 +41,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -74,11 +72,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Job_Title.png)
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +89,11 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Type.png)
 
 ### ❎ Data Validation
 
@@ -106,7 +104,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![alt text](https://github.com/andrewsimangunsong/Excel_Project-Data_Analytics/blob/58c981d07a5a3832f736dc2962df0b0d3ff08d02/Project_1-Dashboard/Images/1_Salary_Dashboard_Data_Validation.gif)
 
 ## Conclusion
 
